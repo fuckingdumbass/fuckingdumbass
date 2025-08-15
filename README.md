@@ -1,4 +1,4 @@
-## Hi there 👋
+# There's no way they let me do this
 
 <!--
 **fuckingdumbass/fuckingdumbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
